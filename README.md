@@ -20,7 +20,6 @@ You can view the live website [here](https://imthiyasopensource.github.io/Portfo
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap** (or any other frameworks/libraries you used)
 - **GitHub Pages** for deployment
 
 ## Getting Started
