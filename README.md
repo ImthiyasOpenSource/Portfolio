@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository hosts the code for my personal portfoli
 
 You can view the live website [here](https://imthiyasopensource.github.io/Portfolio/).
 
-![Portfolio Screenshot]()
+![Portfolio Screenshot](https://github.com/ImthiyasOpenSource/Portfolio/blob/main/Screenshot.png?raw=true)
 
 ## Features
 
